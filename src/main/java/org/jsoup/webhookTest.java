@@ -6,4 +6,5 @@ public class webhookTest {
     int t=2;
     int x=1;
     int success=1111;
+    int succ=222;
 }
