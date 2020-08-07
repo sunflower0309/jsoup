@@ -10,4 +10,5 @@ public class webhookTest {
     int ano=222;
     int x3=1;
     int remote=781;
+    int remotepoll=782;
 }
